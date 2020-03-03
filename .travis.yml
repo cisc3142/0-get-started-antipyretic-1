@@ -1,5 +1,5 @@
 language: c++
 
 script:
- - g++ helloworld.cpp
+ - g++ helloworld.cpp copy.cpp
  - ./a.out
